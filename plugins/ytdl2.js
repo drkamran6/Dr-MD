@@ -54,7 +54,7 @@ cmd({
             document: { url: data.result.download_url }, 
             mimetype: "video/mp4", 
             fileName: `${data.result.title}.mp4`, 
-            caption: `*${yts.title}*\n> *© 𝐁.𝐌.𝐁-𝐗𝐌𝐃🎐*`
+            caption: `*${yts.title}*\n> *© Dr-MD🎐*`
         }, { quoted: mek });
 
     } catch (e) {
@@ -117,7 +117,7 @@ const yt = await ytsearch(q);
         document: { url: data.result.downloadUrl }, 
         mimetype: "audio/mpeg", 
         fileName: `${data.result.title}.mp3`, 
-        caption: `> *© 𝐁.𝐌.𝐁-𝐗𝐌𝐃🎐*`
+        caption: `> *© Dr-MD🎐*`
     }, { quoted: mek });
 
 } catch (e) {
