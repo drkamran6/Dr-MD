@@ -50,7 +50,7 @@ wa.me/+923195068309 ?text=Support!
 await conn.sendMessage(
             from,
             {
-                image: { url: `https://files.catbox.moe/s7pzei.jpg` },
+                image: { url: `https://files.catbox.moe/6k43w3.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -58,7 +58,7 @@ await conn.sendMessage(
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363382023564830@newsletter',
-                        newsletterName: '『 🔥𝐁.𝐌.𝐁-𝐗𝐌𝐃🔥 』',
+                        newsletterName: '『 🔥Dr-MD🔥 』',
                         serverMessageId: 143
                     }
                 }
@@ -68,7 +68,7 @@ await conn.sendMessage(
 
         // Send audio
         await conn.sendMessage(from, {
-            audio: { url: 'https://files.catbox.moe/wify3q.mp3' },
+            audio: { url: 'https://files.catbox.moe/1eyni7.mp3' },
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
