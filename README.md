@@ -5,7 +5,7 @@ Dr-MD is a multi-device WhatsApp bot designed to provide enhanced functionality 
 
 <p align="center">
   <h1 align="center" style="font-family: 'Orbitron', sans-serif; text-shadow: 0 0 10px #00ffff, 0 0 20px #0088ff;">Dr-MD</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=BMB-XMD-V4.0" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=ff0000&center=true&width=1000&height=200&lines=DR-KAMRAN-V4.0" alt="Typing SVG" /></a>
   </p>
   
 ---
