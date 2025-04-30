@@ -67,7 +67,7 @@ ${translatedTafsirEnglish.text}`;
           isForwarded: true,   
           forwardedNewsletterMessageInfo: {
             newsletterJid: '120363382023564830@newsletter', 
-            newsletterName: '𝐁.𝐌.𝐁-𝐗𝐌𝐃', 
+            newsletterName: 'Dr-MD', 
             serverMessageId: 143
           }
         }
@@ -100,7 +100,7 @@ cmd({
 }, 
 async (conn, mek, m, { from, quoted, body,isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, groupAdmins, isBotAdmins, isAdmins, reply }) => {
     try {
-        let dec = `🇰🇪  ⊷┈ *QURAN KAREEM* ┈⊷  🤍
+        let dec = `🇵🇰  ⊷┈ *QURAN KAREEM* ┈⊷  🤍
 
  💫 𝘈𝘭𝘭 𝘴𝘶𝘳𝘢𝘩 𝘢𝘯𝘥 𝘵𝘩𝘦𝘪𝘳 𝘯𝘶𝘮𝘣𝘦𝘳𝘴 𝘭𝘪𝘴𝘵
 𝘧𝘰𝘳 𝘨𝘦𝘵𝘵𝘪𝘯𝘨 𝘴𝘶𝘳𝘢𝘩 𝘵𝘺𝘱𝘦 .𝘴𝘶𝘳𝘢𝘩 36 💫🌸 
@@ -449,7 +449,7 @@ async (conn, mek, m, { from, quoted, body,isCmd, command, args, q, isGroup, send
         await conn.sendMessage(
             from,
             {
-                image: { url: `https://i.ibb.co/HpTPGpdr/nexus-xmd.jpg` },
+                image: { url: `https://files.catbox.moe/6k43w3.jpg` },
                 caption: dec,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -457,7 +457,7 @@ async (conn, mek, m, { from, quoted, body,isCmd, command, args, q, isGroup, send
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363382023564830@newsletter',
-                        newsletterName: '𝐁.𝐌.𝐁-𝐗𝐌𝐃',
+                        newsletterName: 'Dr-MD',
                         serverMessageId: 143
                     }
                 }
