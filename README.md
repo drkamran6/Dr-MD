@@ -10,7 +10,8 @@ Dr-MD is a multi-device WhatsApp bot designed to provide enhanced functionality 
   
 ---
   </p>
-
+https://bmb-website-code-generator.onrender.com/pair' target="_blank">
+https://bmb-website-code-generator.onrender.com/pair'
 ```
 Dont forget to fork & star repo
 ```
