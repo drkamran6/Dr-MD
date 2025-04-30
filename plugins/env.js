@@ -19,7 +19,7 @@ cmd({
 async (conn, mek, m, { from, quoted, reply }) => {
     try {
         // Define the settings message with the correct boolean checks
-        let envSettings = `╭〔 *【𝐁.𝐌.𝐁-𝐗𝐌𝐃】* 〕⊷
+        let envSettings = `╭〔 *【Dr-MD】* 〕⊷
 ┃▸╭───────────
 ┃▸┃๏ *ENV SETTINGS 🗿*
 ┃▸└───────────···๏
@@ -48,7 +48,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
         await conn.sendMessage(
             from,
             {
-                image: { url: 'https://i.ibb.co/BY2HCkh/nexus-xmd.jpg'}, // Image URL
+                image: { url: 'https://files.catbox.moe/6k43w3.jpg'}, // Image URL
                 caption: envSettings,
                 contextInfo: {
                     mentionedJid: [m.sender],
@@ -56,7 +56,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363382023564830@newsletter',
-                        newsletterName: "𝐓𝐇𝐄 𝐁.𝐌.𝐁-𝐗𝐌𝐃 𝐒𝐄𝐓𝐓𝐈𝐍𝐆𝐒🥰",
+                        newsletterName: "𝐓𝐇𝐄 Dr-MD 𝐒𝐄𝐓𝐓𝐈𝐍𝐆𝐒🥰",
                         serverMessageId: 143
                     }
                 }
@@ -66,7 +66,7 @@ async (conn, mek, m, { from, quoted, reply }) => {
 
         // Send an audio file
         await conn.sendMessage(from, {
-            audio: { url: 'https://files.catbox.moe/wify3q.mp3' }, // Audio URL
+            audio: { url: 'https://files.catbox.moe/1eyni7.mp3' }, // Audio URL
             mimetype: 'audio/mp4',
             ptt: true
         }, { quoted: mek });
