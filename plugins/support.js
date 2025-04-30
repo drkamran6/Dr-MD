@@ -19,7 +19,7 @@ async (conn, mek, m, { from, quoted, body, isCmd, command, args, q, isGroup, sen
 
 let dec =     
 ⟣──────────────────⟢
-▧ *ᴄʀᴇᴀᴛᴏʀ* : *B.M.B-XMD  (🇹🇿)*
+▧ *ᴄʀᴇᴀᴛᴏʀ* : *Dr-MD  (🇵🇰)*
 ▧ *ᴍᴏᴅᴇ* : *${config.MODE}*
 ▧ *ᴘʀᴇғɪx* : *${config.PREFIX}*
 ▧ *ʀᴀᴍ* : ${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB / ${Math.round(require('os').totalmem / 1024 / 1024)}MB
@@ -28,20 +28,20 @@ let dec =
 
 ⟣──────────────────⟢
 
-> 🔥𝐁.𝐌.𝐁-𝐗𝐌𝐃🔥 
+> 🔥Dr-MD🔥 
 
 ⟣──────────────────⟢
 ${readMore}
 \ CHANNEL🛠️\
-https://whatsapp.com/channel/0029VawO6hgF6sn7k3SuVU3z
+https://whatsapp.com/channel/0029VbAhxYY90x2vgwhXJV3O
 
 \ GROUP\ 👥
 
-https://chat.whatsapp.com/JpIXcc3AndB3d9pdK2Cg1I
+https://chat.whatsapp.com/Dgw7RWsRwP55G1NfjDhu1l
 
-\ 𝐁.𝐌.𝐁-𝐗𝐌𝐃\ *Dev🧑‍💻*
+\ Dr-MD\ *Dev🧑‍💻*
 
-wa.me/+255767862457 ?text=Support!
+wa.me/+923195068309 ?text=Support!
 
 ⟣──────────────────⟢
 
