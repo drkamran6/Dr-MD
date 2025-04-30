@@ -36,6 +36,10 @@ Dont forget to fork & star repo
   <a href='https://bmb-website-code-generator.onrender.com' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a>
+  > **⚠️ OPTION TWO**
+  <a href='https://dr-md-1-uh0z.onrender.com' target="_blank">
+    <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
+  </a>
 ---
 <h4 align="center">2. heroku</h4>
 <p style="text-align: center; font-size: 1.2em;">
